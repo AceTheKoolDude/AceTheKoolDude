@@ -1,7 +1,7 @@
 --- You shouldn't be here bud, if you are looking for script just copy all of this ---
 
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("All Tycoon Script V4","BloodTheme")
+local window = kavoUi.CreateLib("Ace's Hub v1","BloodTheme")
 
 ---Tabs
 
